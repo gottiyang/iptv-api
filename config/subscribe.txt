@@ -10,3 +10,12 @@
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_taiwan.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/all.m3u
+
+
+步驟三：重新執行 Actions
+
+回到 Actions 分頁 → 點擊左側工作流程 → 點擊右側 Run workflow 重新觸發一次，這次就能通過配置校驗了！
+照這樣修改並重新 Run workflow 後，如果順利看到綠色勾勾（或遇到其他訊息），再跟我說一聲，我接著帶你確認訂閱網址並匯入 APTV。
