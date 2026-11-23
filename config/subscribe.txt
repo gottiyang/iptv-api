@@ -13,8 +13,26 @@
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_taiwan.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/all.m3u
-
-
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+ttps://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://live.fanmingming.com/tv/m3u/global.m3u
+https://live.zbds.top/tv/iptv4.m3u
+https://live.zbds.top/tv/iptv6.m3u
+https://m3u.ibert.me/fmml_ipv6.m3u
+https://m3u.ibert.me/y_g.m3u
+https://epg.112114.xyz/pp.m3u
+https://gitee.com/xxy002/zhiboyuan/raw/master/zby.m3u
+https://gitlab.com/tvtg/vip/-/raw/main/log.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Guovin/iptv-database/master/result.m3u
 步驟三：重新執行 Actions
 
 回到 Actions 分頁 → 點擊左側工作流程 → 點擊右側 Run workflow 重新觸發一次，這次就能通過配置校驗了！
